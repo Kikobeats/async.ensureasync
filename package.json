@@ -2,7 +2,7 @@
   "name": "ensure-async",
   "description": "Wrap an async function and ensure it calls its callback on a later tick of the event loop.",
   "homepage": "https://github.com/Kikobeats/ensure-async",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "./index.js",
   "author": {
     "name": "Kiko Beats",
