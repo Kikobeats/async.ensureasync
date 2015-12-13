@@ -1,7 +1,7 @@
 {
-  "name": "ensure-async",
+  "name": "async.ensureasync",
   "description": "Wrap an async function and ensure it calls its callback on a later tick of the event loop.",
-  "homepage": "https://github.com/Kikobeats/ensure-async",
+  "homepage": "https://github.com/Kikobeats/async.ensureasync",
   "version": "1.0.0",
   "main": "./index.js",
   "author": {
@@ -9,9 +9,9 @@
     "email": "josefrancisco.verdu@gmail.com",
     "url": "https://github.com/Kikobeats"
   },
-  "repository": "Kikobeats/ensure-async",
+  "repository": "Kikobeats/async.ensureasync",
   "bugs": {
-    "url": "https://github.com/Kikobeats/ensure-async/issues"
+    "url": "https://github.com/Kikobeats/async.ensureasync/issues"
   },
   "keywords": [
     "async",

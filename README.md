@@ -1,35 +1,35 @@
-# ensure-async
+# async.ensureasync
 
-![Last version](https://img.shields.io/github/tag/Kikobeats/ensure-async.svg?style=flat-square)
-[![Dependency status](http://img.shields.io/david/Kikobeats/ensure-async.svg?style=flat-square)](https://david-dm.org/Kikobeats/ensure-async)
-[![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/ensure-async.svg?style=flat-square)](https://david-dm.org/Kikobeats/ensure-async#info=devDependencies)
-[![NPM Status](http://img.shields.io/npm/dm/ensure-async.svg?style=flat-square)](https://www.npmjs.org/package/ensure-async)
-[![Gratipay](https://img.shields.io/gratipay/Kikobeats.svg?style=flat-square)](https://gratipay.com/~Kikobeats/)
+![Last version](https://img.shields.io/github/tag/Kikobeats/async.ensureasync.svg?style=flat-square)
+[![Dependency status](http://img.shields.io/david/Kikobeats/async.ensureasync.svg?style=flat-square)](https://david-dm.org/Kikobeats/async.ensureasync)
+[![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/async.ensureasync.svg?style=flat-square)](https://david-dm.org/Kikobeats/async.ensureasync#info=devDependencies)
+[![NPM Status](http://img.shields.io/npm/dm/async.ensureasync.svg?style=flat-square)](https://www.npmjs.org/package/async.ensureasync)
+[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
 
 > Wrap an async function and ensure it calls its callback on a later tick of the event loop. Based on [async#ensureAsync](https://github.com/caolan/async#ensureAsync) as module.
 
 ## Install
 
 ```bash
-npm install ensure-async --save
+npm install async.ensureasync --save
 ```
 
 If you want to use in the browser (powered by [Browserify](http://browserify.org/)):
 
 ```bash
-bower install ensure-async --save
+bower install async.ensureasync --save
 ```
 
 and later link in your HTML:
 
 ```html
-<script src="bower_components/ensure-async/dist/ensure-async.js"></script>
+<script src="bower_components/async.ensureasync/dist/async.ensureasync.js"></script>
 ```
 
 ## Usage
 
 ```js
-var ensureAsync = require('ensure-async');
+var ensureAsync = require('async.ensureasync');
 
 function sometimesAsync(arg, callback) {
   if (cache[arg]) {
