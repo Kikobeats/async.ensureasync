@@ -5,8 +5,8 @@
   "version": "1.0.1",
   "main": "./index.js",
   "author": {
-    "name": "Kiko Beats",
     "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
     "url": "https://github.com/Kikobeats"
   },
   "repository": "Kikobeats/async.ensureasync",
@@ -15,11 +15,8 @@
   },
   "keywords": [
     "async",
-    "module",
-    "ensure",
-    "ensureasync",
-    "setimmediate",
-    "nexttick"
+    "async-modularized",
+    "ensureasync"
   ],
   "dependencies": {
     "lodash.restparam": "~3.6.1",
