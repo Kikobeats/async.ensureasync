@@ -17,7 +17,9 @@
   },
   "keywords": [
     "async",
+    "module",
     "ensure",
+    "ensureasync",
     "setimmediate",
     "nexttick"
   ],
