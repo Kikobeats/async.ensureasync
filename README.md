@@ -1,6 +1,7 @@
 # async.ensureasync
 
 ![Last version](https://img.shields.io/github/tag/Kikobeats/async.ensureasync.svg?style=flat-square)
+[![Build Status](http://img.shields.io/travis/Kikobeats/async.ensureasync/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/async.ensureasync)
 [![Dependency status](http://img.shields.io/david/Kikobeats/async.ensureasync.svg?style=flat-square)](https://david-dm.org/Kikobeats/async.ensureasync)
 [![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/async.ensureasync.svg?style=flat-square)](https://david-dm.org/Kikobeats/async.ensureasync#info=devDependencies)
 [![NPM Status](http://img.shields.io/npm/dm/async.ensureasync.svg?style=flat-square)](https://www.npmjs.org/package/async.ensureasync)
