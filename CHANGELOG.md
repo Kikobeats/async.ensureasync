@@ -1,7 +1,16 @@
+<a name="1.0.2"></a>
+## 1.0.2 (2015-12-13)
+
+
+* Update keywords ([43c82b4](https://github.com/kikobeats/async.ensureasync/commit/43c82b4))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2015-12-13)
 
 
+* 1.0.1 releases ([f3e8c68](https://github.com/kikobeats/async.ensureasync/commit/f3e8c68))
 * Add badge ([2d7e35f](https://github.com/kikobeats/async.ensureasync/commit/2d7e35f))
 * Add keywords ([3e8c11b](https://github.com/kikobeats/async.ensureasync/commit/3e8c11b))
 * Delete unnecessary files. Update travis build ([30e0653](https://github.com/kikobeats/async.ensureasync/commit/30e0653))
