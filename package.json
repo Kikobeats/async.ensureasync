@@ -10,7 +10,7 @@
   "version": "0.5.0",
   "license": "MIT",
   "dependencies": {
-    "async.util.ensureasync": "0.5.0"
+    "async.util.ensureasync": "0.5.1"
   },
   "keywords": [
     "async",
